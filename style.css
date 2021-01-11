@@ -19,3 +19,40 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(241, 174, 49);
+}
+.cat2{
+    background-color: #ff136f;
+}
+.cat3{
+    background-color: rgb(82, 93, 245);
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.noline{
+    border-top: none;
+    background-color: #fff;
+}
+#sub{
+    height: 300px;
+}
+#sub h6{
+ color: gray;
+}
+footer{
+    text-align: center;
+}
